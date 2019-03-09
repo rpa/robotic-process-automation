@@ -1,2 +1,4 @@
-# robotic-process-automation
-Robotic Process Automation (RPA) goes Open Source (OSS) :heart
+# Robotic Process Automation
+Robotic Process Automation (RPA) meets [Robot Framework](https://github.com/robotframework/robotframework)
+
+Open Source (OSS) RPA for everybody - RPA4E
